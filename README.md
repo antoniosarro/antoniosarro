@@ -44,6 +44,8 @@ const Antonio = {
 };
 ```
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=antoniosarro&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 <!--START_SECTION:waka-->
