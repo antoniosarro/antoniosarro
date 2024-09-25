@@ -47,6 +47,72 @@ const Antonio = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.7%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 43.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 71 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+🌆 Daytime                17 commits          ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+🌃 Evening                22 commits          ██████████░░░░░░░░░░░░░░░   38.60 % 
+🌙 Night                  13 commits          ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   11 commits          █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Tuesday                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Wednesday                14 commits          ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Thursday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Friday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Saturday                 5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Sunday                   9 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Svelte** 
+
+```text
+Svelte                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Nix                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TeX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+
+ Last Updated on 25/09/2024 10:38:24 UTC
 <!--END_SECTION:waka-->
 
 ### Note
