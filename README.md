@@ -49,6 +49,8 @@ const Antonio = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -90,13 +92,14 @@ Sunday                   9 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Nix                      14 mins             █████████████████████████   100.00 % 
+Nix                      14 mins             ████████████████████████░   94.52 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-Neovim                   14 mins             █████████████████████████   100.00 % 
+Neovim                   15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 mins             █████████████████████████   100.00 % 
+Linux                    15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -112,7 +115,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2024 01:38:43 UTC
+ Last Updated on 27/09/2024 01:39:36 UTC
 <!--END_SECTION:waka-->
 
 ### Note
