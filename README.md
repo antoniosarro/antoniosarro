@@ -92,14 +92,13 @@ Sunday                   9 commits           █████░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Go                       4 mins              █████████████░░░░░░░░░░░░   52.95 % 
-JavaScript               3 mins              ████████████░░░░░░░░░░░░░   47.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Svelte** 
@@ -115,7 +114,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2024 01:46:54 UTC
+ Last Updated on 21/10/2024 01:42:23 UTC
 <!--END_SECTION:waka-->
 
 ### Note
