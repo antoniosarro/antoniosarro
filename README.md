@@ -49,6 +49,8 @@ const Antonio = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2055%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -63,6 +65,42 @@ const Antonio = {
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+🌆 Daytime                19 commits          █████████░░░░░░░░░░░░░░░░   35.19 % 
+🌃 Evening                23 commits          ███████████░░░░░░░░░░░░░░   42.59 % 
+🌙 Night                  5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   11 commits          █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Tuesday                  11 commits          █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Wednesday                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Friday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Saturday                 5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Sunday                   12 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Svelte** 
 
 ```text
@@ -76,7 +114,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 01:43:10 UTC
+ Last Updated on 11/11/2024 01:40:18 UTC
 <!--END_SECTION:waka-->
 
 ### Note
