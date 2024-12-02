@@ -20,4 +20,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "False"
           LOCALE: "en"
