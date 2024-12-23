@@ -92,11 +92,10 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Nix                      1 hr 38 mins        █████████████████████████   99.94 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Nix** 
@@ -112,7 +111,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2024 01:46:37 UTC
+ Last Updated on 23/12/2024 01:41:58 UTC
 <!--END_SECTION:waka-->
 
 ### Note
