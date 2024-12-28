@@ -49,7 +49,7 @@ const Antonio = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.5%20thousand%20lines%20of%20code-blue)
 
@@ -92,10 +92,10 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Nix                      1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Nix** 
@@ -111,7 +111,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2024 01:39:50 UTC
+ Last Updated on 28/12/2024 01:37:49 UTC
 <!--END_SECTION:waka-->
 
 ### Note
