@@ -49,13 +49,15 @@ const Antonio = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 53.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 180 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -90,11 +92,11 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Nix                      3 mins              ██████████████████░░░░░░░   72.95 % 
-solution                 1 min               ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Nix                      57 mins             ████████████████████████░   97.75 % 
+solution                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Nix** 
@@ -110,7 +112,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2024 01:42:44 UTC
+ Last Updated on 31/12/2024 01:39:27 UTC
 <!--END_SECTION:waka-->
 
 ### Note
