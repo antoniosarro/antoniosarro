@@ -57,8 +57,6 @@ const Antonio = {
 
 > 📦 53.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -112,7 +110,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2025 01:47:16 UTC
+ Last Updated on 02/01/2025 01:39:17 UTC
 <!--END_SECTION:waka-->
 
 ### Note
