@@ -19,17 +19,16 @@
 const Antonio = {
   pronouns: "He" | "Him",
   technologies: {
-    languages: ["TypeScript", "Golang", "Dart"],
+    languages: ["TypeScript", "Golang"],
     frontEnd: {
       js: ["Svelte", "React", "Next.js"],
       css: ["Sass", "Tailwind"],
-      uiLibraries: ["Chakra UI"],
     },
     backEnd: {
       js: ["Node", "Express", "NestJS"],
       go: ["Gin", "Echo", "Fiber"]
     },
-    devOps: ["Docker", "CI/CD", "Linux", "Git"],
+    devOps: ["Docker", "CI/CD", "Linux"],
     cloudServices: {
       aws: ["EC2", "S3"],
     },
@@ -39,7 +38,7 @@ const Antonio = {
       "Redis",
     ],
   },
-  currentFocus: "I want to learn the Rust and Elixir programming languages",
+  currentFocus: "Refactoring my personal website 👾",
   funFact: "I'm not bug-free, but I'm well-tested 😶‍🌫️",
 };
 ```
