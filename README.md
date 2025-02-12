@@ -48,7 +48,7 @@ const Antonio = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.4%20thousand%20lines%20of%20code-blue)
 
@@ -91,10 +91,14 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   3 hrs               ██████████████░░░░░░░░░░░   56.74 % 
+MDX                      1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   33.18 % 
+TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -110,7 +114,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2025 01:40:48 UTC
+ Last Updated on 12/02/2025 01:40:55 UTC
 <!--END_SECTION:waka-->
 
 ### Note
