@@ -48,13 +48,13 @@ const Antonio = {
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.9%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%207%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.2 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -62,6 +62,40 @@ const Antonio = {
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+🌆 Daytime                30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+🌃 Evening                89 commits          ███████████████░░░░░░░░░░   60.96 % 
+🌙 Night                  24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Wednesday                58 commits          ██████████░░░░░░░░░░░░░░░   39.73 % 
+Thursday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Friday                   38 commits          ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Text                     26 mins             ████████████████████████░   95.78 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+
+💻 Operating System: 
+Linux                    27 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Svelte** 
 
 ```text
@@ -75,7 +109,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2025 01:49:17 UTC
+ Last Updated on 29/03/2025 01:48:01 UTC
 <!--END_SECTION:waka-->
 
 ### Note
