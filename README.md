@@ -48,15 +48,11 @@ const Antonio = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%207%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.4 kB Used in GitHub's Storage 
- > 
-> 🏆 76 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -64,39 +60,6 @@ const Antonio = {
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-🌆 Daytime                31 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-🌃 Evening                122 commits         █████████████████░░░░░░░░   69.32 % 
-🌙 Night                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Wednesday                81 commits          ████████████░░░░░░░░░░░░░   46.02 % 
-Thursday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Friday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Sunday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -110,7 +73,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 01:58:07 UTC
+ Last Updated on 22/05/2025 01:57:41 UTC
 <!--END_SECTION:waka-->
 
 ### Note
