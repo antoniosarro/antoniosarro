@@ -48,11 +48,15 @@ const Antonio = {
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81.6%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%207%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 76 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -60,6 +64,39 @@ const Antonio = {
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+🌆 Daytime                31 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+🌃 Evening                126 commits         ██████████████████░░░░░░░   70.00 % 
+🌙 Night                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Wednesday                85 commits          ████████████░░░░░░░░░░░░░   47.22 % 
+Thursday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Friday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Sunday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -73,7 +110,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 01:57:41 UTC
+ Last Updated on 23/05/2025 01:57:35 UTC
 <!--END_SECTION:waka-->
 
 ### Note
