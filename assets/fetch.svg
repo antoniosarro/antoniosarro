@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="920" height="532" viewBox="0 0 920 532" role="img" aria-label="fastfetch-style card for Antonio Sarro">
+<style>text{font-family:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px}.v{fill:#c9d1d9}.d{fill:#8b949e}@keyframes b{50%{opacity:0}}.c{animation:b 1s step-end infinite}</style>
+<rect x="1" y="1" width="918" height="530" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 13a12 12 0 0 1 12-12h894a12 12 0 0 1 12 12v23H1z" fill="#161b22"/>
+<line x1="1" y1="36" x2="919" y2="36" stroke="#30363d"/>
+<circle cx="22" cy="19" r="6" fill="#ff5f57"/>
+<circle cx="42" cy="19" r="6" fill="#febc2e"/>
+<circle cx="62" cy="19" r="6" fill="#28c840"/>
+<text x="460.0" y="24" text-anchor="middle" class="d">antonio@nixos: ~</text>
+<text x="24" y="66"><tspan fill="#22c55e">antonio@nixos</tspan><tspan class="d">:</tspan><tspan fill="#3b82f6">~</tspan><tspan fill="#f59e0b"> ❯ </tspan><tspan class="v">fastfetch</tspan></text>
+<svg x="70" y="185" width="190" height="190" viewBox="0 0 501.56251 501.56249">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5562">
+      <stop
+         style="stop-color:#699ad7;stop-opacity:1"
+         offset="0"
+         id="stop5564" />
+      <stop
+         id="stop5566"
+         offset="0.24345198"
+         style="stop-color:#7eb1dd;stop-opacity:1" />
+      <stop
+         style="stop-color:#7ebae4;stop-opacity:1"
+         offset="1"
+         id="stop5568" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5053">
+      <stop
+         style="stop-color:#415e9a;stop-opacity:1"
+         offset="0"
+         id="stop5055" />
+      <stop
+         id="stop5057"
+         offset="0.23168644"
+         style="stop-color:#4a6baf;stop-opacity:1" />
+      <stop
+         style="stop-color:#5277c3;stop-opacity:1"
+         offset="1"
+         id="stop5059" />
+    </linearGradient>
+    <linearGradient  href="#linearGradient5562"
+       id="linearGradient4328"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(70.650339,-1055.1511)"
+       x1="200.59668"
+       y1="351.41116"
+       x2="290.08701"
+       y2="506.18814" />
+    <linearGradient  href="#linearGradient5053"
+       id="linearGradient4330"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(864.69589,-1491.3405)"
+       x1="-584.19934"
+       y1="782.33563"
+       x2="-496.29703"
+       y2="937.71399" />
+  </defs>
+  <g
+     id="layer3"
+     style="display:inline;opacity:1"
+     transform="translate(-156.41121,933.30685)">
+    <g
+       id="g2"
+       transform="matrix(0.99994059,0,0,0.99994059,-0.06321798,33.188377)"
+       style="stroke-width:1.00006">
+      <path
+         id="path3336-6"
+         d="m 309.54892,-710.38827 122.19683,211.67512 -56.15706,0.5268 -32.6236,-56.8692 -32.85645,56.5653 -27.90237,-0.011 -14.29086,-24.6896 46.81047,-80.4901 -33.22946,-57.8257 z"
+         style="opacity:1;fill:url(#linearGradient4328);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00018;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <use
+         height="100%"
+         width="100%"
+         transform="rotate(60,407.11155,-715.78724)"
+         id="use3439-6"  href="#path3336-6"
+         y="0"
+         x="0"
+         style="stroke-width:1.00006" />
+      <use
+         height="100%"
+         width="100%"
+         transform="rotate(-60,407.31177,-715.70016)"
+         id="use3445-0"  href="#path3336-6"
+         y="0"
+         x="0"
+         style="stroke-width:1.00006" />
+      <use
+         height="100%"
+         width="100%"
+         transform="rotate(180,407.41868,-715.7565)"
+         id="use3449-5"  href="#path3336-6"
+         y="0"
+         x="0"
+         style="stroke-width:1.00006" />
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4330);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00018;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 309.54892,-710.38827 122.19683,211.67512 -56.15706,0.5268 -32.6236,-56.8692 -32.85645,56.5653 -27.90237,-0.011 -14.29086,-24.6896 46.81047,-80.4901 -33.22946,-57.8256 z"
+         id="path4260-0" />
+      <use
+         height="100%"
+         width="100%"
+         transform="rotate(120,407.33916,-716.08356)"
+         id="use4354-5"  href="#path4260-0"
+         y="0"
+         x="0"
+         style="display:inline;stroke-width:1.00006" />
+      <use
+         height="100%"
+         width="100%"
+         transform="rotate(-120,407.28823,-715.86995)"
+         id="use4362-2"  href="#path4260-0"
+         y="0"
+         x="0"
+         style="display:inline;stroke-width:1.00006" />
+    </g>
+  </g>
+</svg>
+<text x="330" y="112"><tspan fill="#f59e0b" font-weight="bold">antonio</tspan><tspan class="d">@</tspan><tspan fill="#7ebae4" font-weight="bold">nixos</tspan></text>
+<text x="330" y="134" class="d">────────────────────────────────────</text>
+<text x="330" y="156"><tspan fill="#f59e0b" font-weight="bold">OS</tspan><tspan x="430" class="v">NixOS · flakes + home-manager</tspan></text>
+<text x="330" y="178"><tspan fill="#f97316" font-weight="bold">Hosts</tspan><tspan x="430" class="v">desktop · laptop · one flake, zero snowflakes</tspan></text>
+<text x="330" y="200"><tspan fill="#ef4444" font-weight="bold">WM</tspan><tspan x="430" class="v">Hyprland · Waybar · Rofi</tspan></text>
+<text x="330" y="222"><tspan fill="#ec4899" font-weight="bold">Shell</tspan><tspan x="430" class="v">zsh · starship · tmux · fzf · zoxide</tspan></text>
+<text x="330" y="244"><tspan fill="#a855f7" font-weight="bold">Terminal</tspan><tspan x="430" class="v">kitty</tspan></text>
+<text x="330" y="266"><tspan fill="#6366f1" font-weight="bold">Editor</tspan><tspan x="430" class="v">neovim</tspan></text>
+<text x="330" y="288"><tspan fill="#3b82f6" font-weight="bold">Cursor</tspan><tspan x="430" class="v">Bibata Modern Amber</tspan></text>
+<text x="330" y="310"><tspan fill="#06b6d4" font-weight="bold">Secrets</tspan><tspan x="430" class="v">sops-nix · age · disko</tspan></text>
+<text x="330" y="332"><tspan fill="#14b8a6" font-weight="bold">Local AI</tspan><tspan x="430" class="v">llama.cpp + llama-swap on 12 GB VRAM</tspan></text>
+<text x="330" y="354"><tspan fill="#22c55e" font-weight="bold">Homelab</tspan><tspan x="430" class="v">Talos · Kubernetes · Flux GitOps</tspan></text>
+<text x="330" y="376"><tspan fill="#84cc16" font-weight="bold">Langs</tspan><tspan x="430" class="v">Go · TypeScript · Nix · Bash</tspan></text>
+<text x="330" y="398"><tspan fill="#eab308" font-weight="bold">Keyboard</tspan><tspan x="430" class="v">Corne split · ZMK</tspan></text>
+<text x="330" y="420"><tspan fill="#f59e0b" font-weight="bold">Hobbies</tspan><tspan x="430" class="v">astrophotography · gaming</tspan></text>
+<rect x="330" y="450" width="30" height="18" fill="#21262d"/>
+<rect x="360" y="450" width="30" height="18" fill="#ef4444"/>
+<rect x="390" y="450" width="30" height="18" fill="#22c55e"/>
+<rect x="420" y="450" width="30" height="18" fill="#f59e0b"/>
+<rect x="450" y="450" width="30" height="18" fill="#3b82f6"/>
+<rect x="480" y="450" width="30" height="18" fill="#a855f7"/>
+<rect x="510" y="450" width="30" height="18" fill="#06b6d4"/>
+<rect x="540" y="450" width="30" height="18" fill="#c9d1d9"/>
+<text x="24" y="508"><tspan fill="#22c55e">antonio@nixos</tspan><tspan class="d">:</tspan><tspan fill="#3b82f6">~</tspan><tspan fill="#f59e0b"> ❯ </tspan><tspan class="v"></tspan></text><rect class="c" x="175.74" y="495" width="9" height="17" fill="#f59e0b"/>
+</svg>
