@@ -136,7 +136,7 @@ Each task gets its own agent role (homelab, NixOS, logs and more), all driven by
 - [Self-Hosted Container Management with Komodo: Your Own Deployment Platform in Docker](https://antoniosarro.dev/blog/komodo-homelab)
 - [Self-Hosted Git with Forgejo: Your Own GitHub Alternative in Docker](https://antoniosarro.dev/blog/forgejo-homelab)
 - [Building a High-Performance Portfolio with SvelteKit: A Deep Dive](https://antoniosarro.dev/blog/building-portfolio)
-- [The Opinion Factory: When Everyone's Voice Becomes No One's Wisdom](https://antoniosarro.dev/blog/opinion-factory)
+- [The Opinion Factory: When Everyone&#39;s Voice Becomes No One&#39;s Wisdom](https://antoniosarro.dev/blog/opinion-factory)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📈 Activity
